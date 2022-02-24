@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308732293126",
+    "project_id": "shopbiz-f3884",
+    "storage_bucket": "shopbiz-f3884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308732293126:android:30d9bef2a8875f93989387",
+        "android_client_info": {
+          "package_name": "com.example.shopbiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308732293126-ok2tien57a6hq0sjt9cp4gsmd6otm4kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopbiz",
+            "certificate_hash": "6280fd0da15d9593487c5504224f55bf5ce37faa"
+          }
+        },
+        {
+          "client_id": "308732293126-6pv7bqfka04i6pi8j545kaga5m582fi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAql2OCBza8Yb1QlExeCAH7ySwFULdKDtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308732293126-6pv7bqfka04i6pi8j545kaga5m582fi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
